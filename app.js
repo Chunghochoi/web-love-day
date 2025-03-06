@@ -1,4 +1,4 @@
-const yourDate = new Date("2024-10-13T20:53:20"),
+const yourDate = new Date("2023-12-31T00:13:20"),
 
 // list các tên âm thanh có trong thư mục
 music = ['nguoiamphu', 'noinaycoanh'];
